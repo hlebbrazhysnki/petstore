@@ -3,85 +3,85 @@ var shop = [
       title: 'Crunch It Dog Toy ',
       image: './assets/506574.jpg',
       price: '3.99',
-      description: 'lorem ipsum'
+      description: 'Lorem ipsum'
     },
     {
       title: 'Rope Bone',
       image: './assets/dog.toy.jpg',
       price: '8.25',
-      description: 'lorem ipsum'
+      description: 'Lorem Ipsum'
     },
     {
       title: 'flexi® Dog Leash',
       image: './assets/5268221.jpg',
       price: '25.99',
-      description: 'lorem ipsum'
+      description: 'Lorem Ipsum'
     },
     {
       title: 'Hound Fun Feeder ',
       image: './assets/85932_MAIN._AC_SL400_V1636512458_.jpg',
       price: '7.99',
-      description: 'lorem ipsum'
+      description: 'Lorem Ipsum'
     },
     {
       title: 'Bark Control Collar',
       image: './assets/collar1notflipped_1024x1024@2x.jpg',
       price: '29.97',
-      description: 'lorem ipsum'
+      description: 'Lorem Ipsum'
     },
     {
       title: 'Scoop-it Bowl',
       image: './assets/340237.jpg',
       price: '358.50',
-      description: 'lorem ipsum'
+      description: 'Lorem Ipsum'
     },
     {
       title: 'Red Dindo ID Tag',
       image: './assets/a9r27a9.jpg',
       price: '5.99',
-      description: 'lorem ipsum'
+      description: 'Lorem Ipsum'
     },
     {
       title: 'All Stage Dog Food',
       image: './assets/dry-food-dog-400.png',
       price: '40.56',
-      description: 'lorem ipsum'
+      description: 'Lorem Ipsum'
     },
     {
       title: 'Agility Formula',
       image: './assets/agility-400.png',
       price: '37.43',
-      description: 'lorem ipsum'
+      description: 'Lorem Ipsum'
+    },
+    {
+      title: 'Large Breed Puppy Food',
+      image: './assets/dry-food-Lpup-400.png',
+      price: '43.74',
+      description: 'Lorem Ipsum'
     },
     {
       title: 'Pedigree',
-      image: './assets/dog.food.jpg',
-      price: '19.88',
-      description: 'lorem ipsum'
+      image: './assets/Lifes_Abundance.png',
+      price: '99.99',
+      description: 'Lorem Ipsum'
     },
     {
-      title: 'Pedigree',
-      image: './assets/dog.food.jpg',
-      price: '19.88',
-      description: 'lorem ipsum'
+      title: 'All Life Stages Dog Food',
+      image: './assets/exclusive-all-life-stages-lamb-brown-rice.png',
+      price: '40.88',
+      description: 'Lorem Ipsum'
     },
     {
-      title: 'Pedigree',
-      image: './assets/dog.food.jpg',
-      price: '19.88',
-      description: 'lorem ipsum'
+      title: 'Remote Dog Collar',
+      image: './assets/61bsjx-ADVL._AC_SL1000__1_540x.jpg',
+      price: '75.99',
+      description: 'Lorem Ipsum'
     },
     {
-      title: 'Pedigree',
-      image: './assets/dog.food.jpg',
-      price: '19.88',
-      description: 'lorem ipsum'
-    },
-    {
-      title: 'Pedigree',
-      image: './assets/dog.food.jpg',
-      price: '19.88',
-      description: 'lorem ipsum'
+      title: 'Paw Brace for Dogs',
+      image: './assets/Knee_Brace_Main_08f4b826-6d27-42dd-8045-f7c5e34b206d_grande.jpg',
+      price: '62.99',
+      description: 'Lorem Ipsum'
     },
     
     
